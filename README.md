@@ -40,6 +40,7 @@ To praktyczny projekt AI, pokazujący:
 
 🧩 Struktura projektu
 naszGPT/
+
 ├── app.py                 # główna logika Streamlit
 ├── requirements.txt       # zależności
 ├── README.md              # ten opis
